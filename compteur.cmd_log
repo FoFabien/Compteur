@@ -1,0 +1,1 @@
+xst -ise "H:/tp_numerique/Compteur/Compteur.ise" -intstyle ise -ifn compteur.xst -ofn compteur.syr

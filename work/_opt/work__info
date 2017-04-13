@@ -1,0 +1,43 @@
+m255
+13
+cModel Technology
+dH:\tp_numerique\Compteur
+T_opt
+VjGYL4@KMi93D47ja^VSLl2
+04 8 4 work compteur test 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+Ecompteur
+w1256029457
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+dH:\tp_numerique\Compteur
+8vhdl.vhd
+Fvhdl.vhd
+l0
+L6
+VDcCzgOVh[lROPRfeblWO]3
+OE;C;6.2e;35
+o-explicit -93
+tExplicit 1
+Atest
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work compteur DcCzgOVh[lROPRfeblWO]3
+31
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+l18
+L16
+VZzS^OK1_Plh>9FaTkWY840
+OE;C;6.2e;35
+o-explicit -93
+tExplicit 1
